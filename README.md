@@ -2,14 +2,22 @@
 Replace crypto addresses with own. Clipper malware
 
 Supports:
-- Bitcoin
-- Etherium
-- Stellar
-- Ripple
-- Litecoin
-- Neocoin
-- BitcoinCash
-- Dashcoin
+- Bitcoin - BTC
+- Etherium -ETH
+- Monero - XMR
+- Stellar - XLM
+- Ripple - XRP
+- Litecoin - LTC
+- Neocoin - NEC
+- BitcoinCash - BCH
+- Dashcoin - DASH
+
+Features:
+- 9KB executable!
+- No administrator required
+- Auto hide
+- Autorun
+- Open source! Code can be read, modified, distributed!
 
 
 Setup:
